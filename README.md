@@ -24,4 +24,4 @@ or
 
 ## License
 
-MIT © [Matheus Fernandes](http://matheus.top)
+MIT © David Walker
