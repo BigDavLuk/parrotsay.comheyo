@@ -1,5 +1,5 @@
 {
-  "name": "parrotsay.comheyo",
+  "name": "parrotsaygoody",
   "version": "1.0.0",
   "description": "Say things with the Party Parrot on your terminal",
   "bin": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BigDavLuk/parrotsay.comheyo.git"
+    "url": "git+https://github.com/BigDavLuk/parrotsaygoody.git"
   },
   "keywords": [
     "parrotsay",
@@ -29,9 +29,9 @@
   "author": "David Walker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BigDavLuk/parrotsay.comheyo/issues"
+    "url": "https://github.com/BigDavLuk/parrotsaygoody/issues"
   },
-  "homepage": "https://github.com/BigDavLuk/parrotsay.comheyo#readme",
+  "homepage": "https://github.com/BigDavLuk/parrotsaygoody#readme",
   "dependencies": {
     "get-stdin": "^5.0.1",
     "minimist": "^1.2.0",
