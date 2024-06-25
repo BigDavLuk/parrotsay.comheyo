@@ -1,6 +1,6 @@
 {
-  "name": "parrotsay",
-  "version": "0.1.0",
+  "name": "parrotsay.comheyo",
+  "version": "1.0.0",
   "description": "Say things with the Party Parrot on your terminal",
   "bin": {
     "parrotsay": "./dist/index.js"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matheuss/parrotsay.git"
+    "url": "git+https://github.com/BigDavLuk/parrotsay.comheyo.git"
   },
   "keywords": [
     "parrotsay",
@@ -26,12 +26,12 @@
     "terminal",
     "say"
   ],
-  "author": "Matheus Fernandes <npm@matheus.top> (https://matheus.top/)",
+  "author": "David Walker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matheuss/parrotsay/issues"
+    "url": "https://github.com/BigDavLuk/parrotsay.comheyo/issues"
   },
-  "homepage": "https://github.com/matheuss/parrotsay#readme",
+  "homepage": "https://github.com/BigDavLuk/parrotsay.comheyo#readme",
   "dependencies": {
     "get-stdin": "^5.0.1",
     "minimist": "^1.2.0",
