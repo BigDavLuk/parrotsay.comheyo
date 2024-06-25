@@ -6,7 +6,7 @@
 ## Install
 
 ```
-npm install --global parrotsaygoody
+npm i parrotsaygoody
 ```
 
 ## Usage
